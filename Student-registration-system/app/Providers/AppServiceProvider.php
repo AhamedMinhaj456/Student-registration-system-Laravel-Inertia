@@ -22,3 +22,12 @@ class AppServiceProvider extends ServiceProvider
         //
     }
 }
+
+// use Inertia\Inertia;
+
+// public function boot()
+// {
+//     $this->registerPolicies();
+
+//     Inertia::setRootView('app');
+// }
